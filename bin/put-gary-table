@@ -1,0 +1,1 @@
+sftp  meaney@mikemeaney.com:public_html <<< $'put dist/GaryTable.html'

@@ -1,0 +1,130 @@
+[
+    {
+      "name": "G_AUTHUSER_H",
+      "value": "0",
+      "domain": ".quora.com",
+      "path": "/If-you-could-put-any-dinosaur-on-a-horror-movie-which-one-would-it-be-Mine-would-be-a-Spinosaurus-or-raptors/answer",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "m-b",
+      "value": "ovT88GazGPxBwakuc9siuw==",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706543847.68589,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "m-b_lax",
+      "value": "ovT88GazGPxBwakuc9siuw==",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706543847.685986,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-b_strict",
+      "value": "ovT88GazGPxBwakuc9siuw==",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706543847.686013,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "m-s",
+      "value": "a07fib2g3CJTqiEXyDM1sg==",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706543847.686044,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "m-ans_frontend_early_version",
+      "value": "ae5f6cbbbbf75641",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706248635.046708,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "m-dynamicFontSize",
+      "value": "regular",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1675007840,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "G_ENABLED_IDPS",
+      "value": "google",
+      "domain": ".www.quora.com",
+      "path": "/",
+      "expires": 253402257600,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "m-theme",
+      "value": "light",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1674669439,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "G_AUTHUSER_H",
+      "value": "0",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_p\":1643302689351,\"i_l\":1}",
+      "domain": "www.quora.com",
+      "path": "/",
+      "expires": 1658847489,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "m-lat",
+      "value": "QxL5ztP3Iz4mo_g2S6zRZw==",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706367508.108838,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "name": "m-login",
+      "value": "1",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706410708.108868,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "name": "m-uid",
+      "value": "587543741",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1706410708.376802,
+      "httpOnly": false,
+      "secure": false
+    }
+  ]

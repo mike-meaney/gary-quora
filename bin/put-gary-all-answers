@@ -1,0 +1,6 @@
+cd data
+cat markdown/*md > all-answers.md
+/apollo/env/NodeJS/bin/npx --yes -- single-page-markdown-website '*.md' --open
+mv build/index.html all-answers.html
+cd ..
+sftp  meaney@mikemeaney.com:public_html <<< $'put data/all-answers.html'
