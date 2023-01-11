@@ -52,8 +52,8 @@ const getAnswers = async () => {
     answers.sort((a, b) => {
         const aCat = 10 - (CHAPTER_ORDER[a.Chapter] || 10);
         const bCat = 10 - (CHAPTER_ORDER[b.Chapter] || 10);
-        const aScore = aCat * 1000000 + parseInt(a.Upvotes);
-        const bScore = bCat * 1000000 + parseInt(b.Upvotes);
+        const aScore = aCat != 0 ? 1000000000 - parseInt(a.Num) : aCat * 1000000 + parseInt(a.Upvotes);
+        const bScore = bCat != 0 ? 1000000000 - parseInt(b.Num) : bCat * 1000000 + parseInt(b.Upvotes);
         return aScore < bScore ? 1: -1;
     });
     return answers
@@ -178,7 +178,7 @@ const main = async () => {
         if (answer.Chapter != '') {
 //            await capturePage(page, answer, i, lastChapter, true);
         }
-        const oldFilenameBase = `data/markdown/${String(i + 1).padStart(3, '0')}-${answer.Link.replace(/https:..www.quora.com./, '')}`;
+        const oldFilenameBase = `data/markdown/*-${filename(answer)}`;
         const newFilenameBase = `data/markdown/${String(i + 1).padStart(3, '0')}-${filename(answer)}`;
         console.log(`mv ${oldFilenameBase}.md ${newFilenameBase}.md`);
         console.log(`mv ${oldFilenameBase}.png ${newFilenameBase}.png`);

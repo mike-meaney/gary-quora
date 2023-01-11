@@ -1,12 +1,9 @@
-## A Sweaty Horse is a Soapy Horse
-    
-**Upvotes**: 101 | **Comments**: 9 | **Date**: [2y](https://www.quora.com/How-do-horses-sweat/answer/Gary-Meaney)
+
+## 21. A Sweaty Horse is a Soapy Horse
 
 Horses perspire in the same manner as we, and all mammals, do - via the eccrine and apocrine sweat glands clustered underneath the epidermis. These glands produce sweat - a salty, water-rich secretion, which regulates temperature through evaporative cooling.
 
 What’s special about horse sweat is that it contains a protein called latherin, a naturally-occuring detergent - and this applies to zebras, not just domestic horses, by the way.
-
-![](https://qph.fs.quoracdn.net/main-qimg-dd85b7da152ad0d8f9b20b365d2239e7-lq)
 
 As you probably know, members of the horse family generally excel at long-distance running - they’re one of the only animals which are better than humans at it. The key thing about long-distance running which makes it difficult is overheating - as such, horses are also the only animals which sweat as much as we do.
 

@@ -1,0 +1,23 @@
+
+## 40. The Bare-Faced Go-Away and Other Turacos
+
+Deciding on just one is very hard, but for this answer I’ll go with turacos. They’re so little known, and yet so fascinating.
+
+The turacos form the order of birds called Musophagiformes (meaning “banana eaters”), which has only one family, Musophagidae, which contains 23 living species. They are only found in sub-Saharan Africa, although fossil evidence shows that they once lived in places like France, Germany and Egypt.
+
+They are interesting for many reasons. For one thing, they’re the only birds which have green pigmentation. Of course, there are other birds which look green, but they can only pull that off using something called structural colour - they have microscopic structures in their feathers which reflect only green light. For some reason, actual green pigments are very rare in animals, but turacos have managed to synthesize them.
+
+Another pigment unique to the family is turacin (guess where the name comes from), which gives them their beautiful red wing feathers. It’s the sun shining through these red wings which make them stand out when flying overhead:
+
+There are three main types of turaco - “regular” turacos - brightly coloured birds which dwell in tropical rainforests - plantain-eaters, and go-away birds. The latter two aren’t as extravagant as their relatives - mainly sporting grey, black and white plumage - and are found in savannahs and dry woodlands.
+
+Go-away birds are named for their calls, which start out like “kweh, kweh, kweh” then move on to squeaky “go-way”s, before ending in a long drawl. The bare-faced go-away bird (pictured below) is probably the most colourful in this group - grey and white with a black face and a greenish patch on the breast.
+
+The largest species of turaco is the great blue turaco, found in Kenya, Uganda, and the DR Congo. Up to 76 centimetres long, it’s highly sought-after by birders for its beauty and vivid colours.
+
+All turacos have a unique foot structure which allows them to literally run along branches through the forest canopy, in a method of locomotion unique among birds. The fourth toe is very flexible, so it can twist back to the back toe (making an X shape with the other digits), or forward to the front two (making a typical, trident-shaped foot).
+
+Lastly, juvenile turacos have a rather amazing trait which really shows how similar birds are to other dinosaurs. While almost all other birds have lost their fingers over the course of evolution, young musophagids retain a tiny little clawed digit on their wings, which they use to climb trees (The unrelated hoatzin is similar). When they grow up, they’re safer from predators and less in need of quick escapes, so they lose the claws.
+
+So, that’s been the turacos - the uniquely-pigmented, weird-footed, treetop-running, claw-winged oddballs of Africa. Hopefully you’ve enjoyed this answer, thank you for reading.
+
